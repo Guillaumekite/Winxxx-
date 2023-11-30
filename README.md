@@ -20,7 +20,7 @@ As implied by the project's name, we embraced the theme of Winx. This concept in
 
 ## Modeling / Molding
 
-"anne-ju"
+The modelisation was inspired as we said by winx, our objective was to make it looks more personnal, more original. The most difficult part was to create the mold, because we had complexe strucures.
 
 ## Code
 
