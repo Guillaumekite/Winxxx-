@@ -24,7 +24,12 @@ As implied by the project's name, we embraced the theme of Winx. This concept in
 
 ## Code
 
-We utilized new libraries and services compatible with ESP32 and the OLED SSD1306 screen, as well as the keypad to create matrices differentiating the various buttons used. ESP-NOW proved to be very useful for Wifi communication.
+The code was developped on the Arduino IDE.
+
+We utilized new libraries such as Adafruit and services compatible with ESP32 and the OLED SSD1306 screen, as well as the keypad library to create matrices differentiating the various buttons used. ESP-NOW proved to be very useful for Wifi communication.
+
+We made separately different functions (Welcome Screen, LEDs color, selection of messages, notifications blinking...) and then we assembled them to make the winxxx box work. 
+
 
 ## Project Feedback
 
