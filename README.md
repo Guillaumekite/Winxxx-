@@ -30,3 +30,8 @@ We utilized new libraries and services compatible with ESP32 and the OLED SSD130
 
 We learned a lot from this project due to our task distribution. We decided to enhance our skills by choosing areas where we were less comfortable, with the aim of learning. Despite some challenges and obstacles, it's a successful bet. We are proud of the work done, both in terms of artistic aspects and the implemented features in the WinxxxBox.
 
+## Video : Demo of the product
+
+
+https://github.com/Guillaumekite/Winxxx-/assets/98738106/55fb416f-e072-47b3-8f6b-175962335612
+
