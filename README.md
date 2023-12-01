@@ -20,7 +20,7 @@ As implied by the project's name, we embraced the theme of Winx. This concept in
 
 ## Modeling / Molding
 
-The modelisation was inspired as we said by winx, our objective was to make it looks more personnal, more original. The most difficult part was to create the mold, because we had complexe strucures.
+On the modeling side, we revisited the Gameboy design, creating a WinxBox with wings on either side of the case. The case has holes in the wings to let the LED light through. What's more, we've added shims to the base to ensure optimum fixation of the card. We also created a CAD of the mold for injection molding, guaranteeing optimum precision. This crucial step ensures the quality of the manufacturing process.
 
 ## Code
 
