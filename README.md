@@ -21,13 +21,23 @@ As implied by the project's name, we embraced the theme of Winx. This concept in
 ## Modeling / Molding
 
 On the modeling side, we revisited the Gameboy design, creating a WinxBox with wings on either side of the case. The case has holes in the wings to let the LED light through. What's more, we've added shims to the base to ensure optimum fixation of the card. 
-We also created a CAD of the mold for injection molding, guaranteeing optimum precision. This crucial step ensures the quality of the manufacturing process.
+We also created a CAD of the mold for injection molding, guaranteeing optimum precision. This crucial step ensures the quality of the manufacturing process. It was a difficult part, because we had complexe strucures.
 
 ## Code
 
-We utilized new libraries and services compatible with ESP32 and the OLED SSD1306 screen, as well as the keypad to create matrices differentiating the various buttons used. ESP-NOW proved to be very useful for Wifi communication.
+The code was developped on the Arduino IDE.
+
+We utilized new libraries such as Adafruit and services compatible with ESP32 and the OLED SSD1306 screen, as well as the keypad library to create matrices differentiating the various buttons used. ESP-NOW proved to be very useful for Wifi communication.
+
+We made separately different functions (Welcome Screen, LEDs color, selection of messages, notifications blinking...) and then we assembled them to make the winxxx box work. 
+
 
 ## Project Feedback
 
 We learned a lot from this project due to our task distribution. We decided to enhance our skills by choosing areas where we were less comfortable, with the aim of learning. Despite some challenges and obstacles, it's a successful bet. We are proud of the work done, both in terms of artistic aspects and the implemented features in the WinxxxBox.
+
+## Video : Demo of the product
+
+
+https://github.com/Guillaumekite/Winxxx-/assets/98738106/55fb416f-e072-47b3-8f6b-175962335612
 
